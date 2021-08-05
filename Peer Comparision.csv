@@ -1,0 +1,20 @@
+PEER COMPARISION, 
+Symbol,INFY
+----------FUNDAMENTALS----------DATA,
+Face value,5.00
+LTP,"1,561.25"
+Percentage change,-1.24
+Traded Value,"39,952.14"
+Traded Volume,"25,51,157"
+VWAP,"1,566.04"
+----------RATIO ANALYSIS----------DATA,
+Ex Date,31-MAY-21
+Corporate action,ANNUAL GENERAL MEETING/DIVIDEND - RS 15 PER SHARE
+----------RISK PROFILE----------DATA,
+Qty. Traded,"19,90,203"
+Deliverable Qty.,"12,31,041"
+Percentage Delivery Qty .to Traded Qty.,61.86
+SecurityVaR,11.63
+VaR Margin,11.63
+Applicable Margin Rate,15.13
+Extreme Loss Rate,3.50
